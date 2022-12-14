@@ -1,2 +1,6 @@
 cplex
 docplex
+networkx
+matplotlib
+pydot
+pygraphviz
