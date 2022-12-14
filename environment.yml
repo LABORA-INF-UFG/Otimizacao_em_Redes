@@ -1,0 +1,4 @@
+name: jupyter-environment
+
+dependencies:
+  - pygraphviz
