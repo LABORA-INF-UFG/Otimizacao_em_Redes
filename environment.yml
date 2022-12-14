@@ -2,3 +2,8 @@ name: jupyter-environment
 
 dependencies:
   - pygraphviz
+  - cplex
+  - docplex
+  - networkx
+  - matplotlib
+  - pydot
