@@ -6,7 +6,6 @@ dependencies:
   - networkx
   - matplotlib
   - pydot
-  - pip
   - pip:
     - cplex
     - docplex
